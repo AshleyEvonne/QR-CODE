@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    min-height: 100vh;
+    font-size: 15px;
+}
+
+
+.white-ctn{
+    /* width: 40vw;
+    height: 40vh; */
+    width: 30%;
+    height: 40%;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    }
+
+    .white-ctn h4{
+        color:hsl(212, 45%, 89%) ;
+    }
+
+img{
+    width: 80%;
+    border-radius: 10px;
+    margin: 5%;
+    width: 230px;
+ } 
+/* 
+ @media screen and (min-width:375px) {
+    body{
+        background-color:
+    }
+    
+ } */
